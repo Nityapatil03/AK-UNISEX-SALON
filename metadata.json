@@ -1,0 +1,6 @@
+{
+  "name": "AK UNISEX SALON - Hair & Beauty Studio & Management ERP",
+  "description": "Luxury unisex salon offering hair care, bridal makeup, skin aesthetics, and a complete salon management system with appointment booking, POS billing, and inventory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
